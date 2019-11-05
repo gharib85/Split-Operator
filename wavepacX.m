@@ -45,7 +45,6 @@ for n = 2:length(time)
 end
 %
 imagesc(abs(Psi))
-%
 
 
 
